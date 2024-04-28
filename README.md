@@ -25,7 +25,7 @@ I'm a passionate Computer Engineering student in my 4th year, specializing in ha
 
 ## Projects
 
-- [Matlab robots competition]([link](https://github.com/Omarnab7/Robots-comp-MATLAB.git)): during my 3rd year at MATLAB course we got a final project to do, competition agains my class student, and I got the 1st place :).
+- [Matlab robots competition]((https://github.com/Omarnab7/Robots-comp-MATLAB.git)): during my 3rd year at MATLAB course we got a final project to do, competition agains my class student, and I got the 1st place :).
 - [For Worker Web](link): A site that brings together all employees under one roof.
 - [File managing of police station](link): during my C++ course I wrote a program that organizes and sends reports of traffic violations to drivers directly.
 
