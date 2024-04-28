@@ -25,15 +25,13 @@ I'm a passionate Computer Engineering student in my 4th year, specializing in ha
 
 ## Projects
 
-- [Project Name](link): Brief description.
-- [Project Name](link): Brief description.
-- [Project Name](link): Brief description.
+- [Matlab robots competition](link): during my 3rd year at MATLAB course we got a final project to do, competition agains my class student, and I got the 1st place :).
+- [For Worker Web](link): A site that brings together all employees under one roof.
+- [File managing of police station](link): during my C++ course I wrote a program that organizes and sends reports of traffic violations to drivers directly.
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/OmarAlnabilsi)
-- [Twitter](your-twitter-profile)
-- [Website](your-website)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:nabilsiomar10@gmail.com)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
