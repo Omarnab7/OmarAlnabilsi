@@ -31,7 +31,7 @@ I'm a passionate Computer Engineering student in my 4th year, specializing in ha
 
 ## Connect with Me
 
-- [LinkedIn] [](https://www.linkedin.com/in/OmarAlnabilsi)
+- [LinkedIn](https://www.linkedin.com/in/OmarAlnabilsi)
 - [Twitter](your-twitter-profile)
 - [Website](your-website)
 - [Email](mailto:your-email@example.com)
